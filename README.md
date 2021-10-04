@@ -201,6 +201,11 @@ Special thanks to all [contributors](https://github.com/fastlane/fastlane/graphs
 ## Contribute to _fastlane_
 
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to help with _fastlane_.
+# What is Fastlane used for?
+Fastlane lets you do all that efficiently and repeatedly.
+It's an open-source tool aimed at simplifying Android and iOS deployment.
+Fastlane lets you automate every aspect of your development and release workflows.
+In this tutorial, you'll learn how to automate common tasks using fastlane.
 
 ## Code of Conduct
 
